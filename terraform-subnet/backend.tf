@@ -1,6 +1,5 @@
 terraform {
   cloud {
-
     organization = "test-sg"
     hostname     = "app.terraform.io"
 
